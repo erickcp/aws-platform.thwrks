@@ -121,4 +121,3 @@ To delete the deployment provisioned by terraform, run following commands:
 ```sh
 make news.deinfra
 ```
-Tst
